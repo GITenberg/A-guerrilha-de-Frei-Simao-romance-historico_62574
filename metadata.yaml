@@ -1,0 +1,27 @@
+_repo: A-guerrilha-de-Frei-Simao-romance-historico_62574
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Pimentel, Alberto
+    alias: Pimentel, Alberto Augusto de Almeida
+    birthdate: 1849
+    deathdate: 1925
+    gutenberg_agent_id: '25371'
+    url: http://www.gutenberg.org/2009/agents/25371
+    wikipedia: https://pt.wikipedia.org/wiki/Alberto_Pimentel
+description: ''
+gutenberg_issued: '2020-07-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62574'
+  lccn: '35025753'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Portugal -- History -- 1826-1853 -- Fiction'
+- !lcc 'PQ'
+- GITenberg
+title: 'A guerrilha de Frei Simão: romance historico'
+url: http://www.gutenberg.org/ebooks/62574
